@@ -1,2 +1,2 @@
 # javascript-slider
-This is javascript image slide
+This is javascript image slider.
