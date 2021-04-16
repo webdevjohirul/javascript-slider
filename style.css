@@ -25,3 +25,35 @@
 .sliderItem.active{
 	opacity:1;
 }
+.author{
+	width: 57%;
+    margin-left: auto;
+    margin-top: 500px;
+}
+.author a {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sansita;
+    border: 2px solid tomato;
+    color: blue;
+    padding: 0px 5px;
+    outline: 2px dotted orange;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.author a:hover{
+	color: white;
+    background: tomato;
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
